@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.exe
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.deps.json
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.runtimeconfig.json
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.dll
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\netcoreapp3.1\4. Reverse Array of Strings.pdb
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.dll
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.pdb
+C:\Users\dimit\source\repos\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\netcoreapp3.1\4. Reverse Array of Strings.genruntimeconfig.cache
