@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\bin\Debug\netcoreapp3.1\T02Race.exe
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\bin\Debug\netcoreapp3.1\T02Race.deps.json
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\bin\Debug\netcoreapp3.1\T02Race.runtimeconfig.json
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\bin\Debug\netcoreapp3.1\T02Race.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\bin\Debug\netcoreapp3.1\T02Race.dll
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\bin\Debug\netcoreapp3.1\T02Race.pdb
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\obj\Debug\netcoreapp3.1\T02Race.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\obj\Debug\netcoreapp3.1\T02Race.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\obj\Debug\netcoreapp3.1\T02Race.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\obj\Debug\netcoreapp3.1\T02Race.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\obj\Debug\netcoreapp3.1\T02Race.dll
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\obj\Debug\netcoreapp3.1\T02Race.pdb
+C:\Users\dimit\source\repos\Exercise-Regular Expressions\T02Race\obj\Debug\netcoreapp3.1\T02Race.genruntimeconfig.cache
