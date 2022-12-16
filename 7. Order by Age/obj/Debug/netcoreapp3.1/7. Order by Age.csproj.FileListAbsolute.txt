@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.exe
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.deps.json
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.runtimeconfig.json
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.dll
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\bin\Debug\netcoreapp3.1\7. Order by Age.pdb
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.dll
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.pdb
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\7. Order by Age\obj\Debug\netcoreapp3.1\7. Order by Age.genruntimeconfig.cache

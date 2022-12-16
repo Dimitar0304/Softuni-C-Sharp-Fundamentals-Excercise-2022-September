@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.exe
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.deps.json
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.runtimeconfig.json
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.dll
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\bin\Debug\netcoreapp3.1\5. Teamwork Projects.pdb
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.dll
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.pdb
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\5. Teamwork Projects\obj\Debug\netcoreapp3.1\5. Teamwork Projects.genruntimeconfig.cache

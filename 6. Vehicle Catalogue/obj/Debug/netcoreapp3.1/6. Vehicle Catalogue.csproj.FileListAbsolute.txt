@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.exe
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.deps.json
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.runtimeconfig.json
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.dll
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.pdb
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.dll
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.pdb
+C:\Users\dimit\source\repos\Objects and Clases-Exercise\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.genruntimeconfig.cache
