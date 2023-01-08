@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.exe
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.deps.json
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.runtimeconfig.json
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.dll
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\bin\Debug\netcoreapp3.1\5. HTML.pdb
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.AssemblyInfo.cs
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.dll
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.pdb
+C:\Users\dimit\source\repos\TextProcesing-MoreExercise\5. HTML\obj\Debug\netcoreapp3.1\5. HTML.genruntimeconfig.cache
