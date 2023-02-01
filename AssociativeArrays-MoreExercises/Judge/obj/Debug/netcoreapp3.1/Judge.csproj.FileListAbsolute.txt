@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\bin\Debug\netcoreapp3.1\Judge.exe
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\bin\Debug\netcoreapp3.1\Judge.deps.json
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\bin\Debug\netcoreapp3.1\Judge.runtimeconfig.json
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\bin\Debug\netcoreapp3.1\Judge.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\bin\Debug\netcoreapp3.1\Judge.dll
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\bin\Debug\netcoreapp3.1\Judge.pdb
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\obj\Debug\netcoreapp3.1\Judge.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\obj\Debug\netcoreapp3.1\Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\obj\Debug\netcoreapp3.1\Judge.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\obj\Debug\netcoreapp3.1\Judge.AssemblyInfo.cs
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\obj\Debug\netcoreapp3.1\Judge.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\obj\Debug\netcoreapp3.1\Judge.dll
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\obj\Debug\netcoreapp3.1\Judge.pdb
+C:\Users\dimit\source\repos\AssociativeArrays-MoreExercises\Judge\obj\Debug\netcoreapp3.1\Judge.genruntimeconfig.cache
